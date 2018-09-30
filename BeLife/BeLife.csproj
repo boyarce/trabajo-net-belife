@@ -69,7 +69,7 @@
   <ItemGroup>
     <Content Include="app\site\ClientAdd.aspx" />
     <Content Include="app\site\Clientes.aspx" />
-    <Content Include="app\site\Contrato.aspx" />
+    <Content Include="app\site\Contratos.aspx" />
     <Content Include="app\site\home.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -90,12 +90,12 @@
     <Compile Include="app\site\Clientes.aspx.designer.cs">
       <DependentUpon>Clientes.aspx</DependentUpon>
     </Compile>
-    <Compile Include="app\site\Contrato.aspx.cs">
-      <DependentUpon>Contrato.aspx</DependentUpon>
+    <Compile Include="app\site\Contratos.aspx.cs">
+      <DependentUpon>Contratos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="app\site\Contrato.aspx.designer.cs">
-      <DependentUpon>Contrato.aspx</DependentUpon>
+    <Compile Include="app\site\Contratos.aspx.designer.cs">
+      <DependentUpon>Contratos.aspx</DependentUpon>
     </Compile>
     <Compile Include="app\site\home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
