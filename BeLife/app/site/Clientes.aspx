@@ -15,7 +15,10 @@
         <th>Apellido Paterno</th>
         <th>Apellido Materno</th>
            <th>Rut</th>
+           <th>Sexo</th>
+           <th>Estado Civil</th>
            <th>Contrato</th>
+          <th>Acciones</th>
       </tr>
     </thead>
     <tbody>
