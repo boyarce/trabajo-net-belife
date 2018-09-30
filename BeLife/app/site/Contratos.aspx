@@ -9,26 +9,42 @@
   <table class="table table-bordered">
     <thead>
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
+     <th>n°contrato</th>
+<th>Rut Cliente</th>
+<th>fecha de inicio</th>
+<th>fecha termino</th>
+<th>Valor Prima Anual</th>
+<th>Valor Base Plan</th>
+<th>Recargo</th>
 
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>John</td>
-        <td>Doe</td>
+        <td>Eje</td>
         <td>john@example.com</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
       </tr>
       <tr>
         <td>Mary</td>
         <td>Moe</td>
         <td>mary@example.com</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
       </tr>
       <tr>
         <td>July</td>
         <td>Dooley</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
+          <td>Eje</td>
         <td>july@example.com</td>
       </tr>
     </tbody>
