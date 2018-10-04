@@ -10,6 +10,6 @@
 namespace BeLife.app.site {
     
     
-    public partial class home {
+    public partial class Contrato {
     }
 }

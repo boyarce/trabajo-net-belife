@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace BeLife.app.site
 {
-    public partial class home : System.Web.UI.Page
+    public partial class Clientes : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
