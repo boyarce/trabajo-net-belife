@@ -10,6 +10,6 @@
 namespace BeLife.app.site {
     
     
-    public partial class Clientes {
+    public partial class ClientAdd {
     }
 }
