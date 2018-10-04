@@ -114,3 +114,6 @@ C:\Users\Jesus\Desktop\trabajo .net\Nueva carpeta\trabajo-net-belife\BeLife\obj\
 C:\Users\Jesus\Desktop\trabajo .net\Nueva carpeta\trabajo-net-belife\BeLife\obj\Debug\BeLife.csproj.CoreCompileInputs.cache
 C:\Users\Jesus\Desktop\trabajo .net\Nueva carpeta\trabajo-net-belife\BeLife\obj\Debug\BeLife.dll
 C:\Users\Jesus\Desktop\trabajo .net\Nueva carpeta\trabajo-net-belife\BeLife\obj\Debug\BeLife.pdb
+C:\Users\CETECOM\Desktop\web\trabajo-net-belife\BeLife\obj\Debug\BeLife.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Desktop\web\trabajo-net-belife\BeLife\obj\Debug\BeLife.dll
+C:\Users\CETECOM\Desktop\web\trabajo-net-belife\BeLife\obj\Debug\BeLife.pdb
